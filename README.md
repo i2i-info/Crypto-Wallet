@@ -32,7 +32,7 @@ npm install # this will install all dependecies
 npm start
 ```
 
-#### BUID
+#### BUILD
 
 ```bash
 npm run build
