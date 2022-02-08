@@ -36,9 +36,9 @@ export default class App extends Component {
 
     return (
       <Provider store={store}>
-        <BrowserRouter>
+        <BrowserRouter basename="/portfolio">
           <Layout>
-            <Switch>
+            <Switch >
               {routes}
               <Route component={Page404} />
             </Switch>
