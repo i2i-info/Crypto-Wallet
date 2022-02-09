@@ -65,16 +65,16 @@ const Header = (props) => {
 
             <Link to={"/dashboard"}>
               <img
-                src="assets/image/Logo.svg"
+                src="/assets/image/Logo.svg"
                 alt="logo"
                 className="img-fluid zl_main_logo"
               />
 
-              {localStorage.getItem("themColor") &&
-              localStorage.getItem("themColor") === "zl_light_theme_active" ? (
+              {localStorage.getItem("themColor") === "zl_light_theme_active" ||
+              localStorage.getItem("themColor") === null ? (
                 <>
                   <img
-                    src="assets/image/favicon.svg"
+                    src="/assets/image/favicon.svg"
                     alt="logo"
                     className="img-fluid zl_mini_sidebar_logo"
                   />
@@ -82,7 +82,7 @@ const Header = (props) => {
               ) : (
                 <>
                   <img
-                    src="assets/image/favicon_dark.svg"
+                    src="/assets/image/favicon_dark.svg"
                     alt="logo"
                     className="img-fluid zl_mini_sidebar_logo"
                   />
@@ -90,7 +90,7 @@ const Header = (props) => {
               )}
 
               <img
-                src="assets/image/light-Logo.svg"
+                src="/assets/image/light-Logo.svg"
                 alt="light-logo"
                 className="img-fluid zl_light_theme_logo d-none"
               />
@@ -213,7 +213,7 @@ const Header = (props) => {
                 props.themHandler(color);
               }}
             />
-            <sapn className="zl_page_sidebar_sidebar_dark_text">Dark mode</sapn>
+            <span className="zl_page_sidebar_sidebar_dark_text">Dark mode</span>
           </div>
         </div>
         {/* <div className="zl_page_sidebar_dark_mode_content">
