@@ -70,8 +70,8 @@ const Header = (props) => {
                 className="img-fluid zl_main_logo"
               />
 
-              {localStorage.getItem("themColor") &&
-              localStorage.getItem("themColor") === "zl_light_theme_active" ? (
+              {localStorage.getItem("themColor") === "zl_light_theme_active" ||
+              localStorage.getItem("themColor") === null ? (
                 <>
                   <img
                     src="assets/image/favicon.svg"
