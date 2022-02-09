@@ -42,7 +42,7 @@ const HeadingModule = (props) => {
                 </h2>
                 <div className="zl_all_page_notification_list">
                   <img
-                    src="assets/image/Avatar.png"
+                    src="/assets/image/Avatar.png"
                     alt="user-img"
                     className="zl_all_page_notification_user_img"
                   />
@@ -174,7 +174,7 @@ const HeadingModule = (props) => {
                 </div>
                 <div className="zl_all_page_notification_list">
                   <img
-                    src="assets/image/Avatar.png"
+                    src="/assets/image/Avatar.png"
                     alt="user-img"
                     className="zl_all_page_notification_user_img"
                   />

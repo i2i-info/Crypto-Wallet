@@ -276,7 +276,7 @@ const DashboardModule = (props) => {
             <div className="zl_add_currency_column col colums_p_w">
               <div className="zl_add_currency_inner_content">
                 <div className="zl_add_currency_icon_chart">
-                  {/* <img src="assets/image/Bitcoin.svg" alt="currency-icon" /> */}
+                  {/* <img src="/assets/image/Bitcoin.svg" alt="currency-icon" /> */}
                   <div className="zl_currency_icon">
                     <svg
                       viewBox="0 0 34 30"

@@ -7,112 +7,112 @@ const RestoreWalletModule = () => {
     const addCurrency = [
         {
             id: 1,
-            image: 'assets/image/Australia.png',
+            image: '/assets/image/Australia.png',
             heading: 'AUD',
             peregraph: 'Australian Dollar',
             activeCurrency: 'active'
         },
         {
             id: 2,
-            image: 'assets/image/Brazil.png',
+            image: '/assets/image/Brazil.png',
             heading: 'BRL',
             peregraph: 'Brazilian Real',
             activeCurrency: 'unactive'
         },
         {
             id: 3,
-            image: 'assets/image/Canada.png',
+            image: '/assets/image/Canada.png',
             heading: 'CAD',
             peregraph: 'Canadian Dollar',
             activeCurrency: 'unactive'
         },
         {
             id: 4,
-            image: 'assets/image/Switzerland.png',
+            image: '/assets/image/Switzerland.png',
             heading: 'CHF',
             peregraph: 'Swiss France',
             activeCurrency: 'unactive'
         },
         {
             id: 5,
-            image: 'assets/image/China.png',
+            image: '/assets/image/China.png',
             heading: 'CNY',
             peregraph: 'Chinese Yuan',
             activeCurrency: 'unactive'
         },
         {
             id: 6,
-            image: 'assets/image/Germany.png',
+            image: '/assets/image/Germany.png',
             heading: 'DEM',
             peregraph: 'Germany',
             activeCurrency: 'unactive'
         },
         {
             id: 7,
-            image: 'assets/image/EUROPE.png',
+            image: '/assets/image/EUROPE.png',
             heading: 'EURO',
             peregraph: 'Europe',
             activeCurrency: 'unactive'
         },
         {
             id: 8,
-            image: 'assets/image/France.png',
+            image: '/assets/image/France.png',
             heading: 'EURO',
             peregraph: 'France',
             activeCurrency: 'unactive'
         },
         {
             id: 9,
-            image: 'assets/image/England.png',
+            image: '/assets/image/England.png',
             heading: 'AUD',
             peregraph: 'England',
             activeCurrency: 'unactive'
         },
         {
             id: 10,
-            image: 'assets/image/HongKong.png',
+            image: '/assets/image/HongKong.png',
             heading: 'BRL',
             peregraph: 'Hong Kong',
             activeCurrency: 'unactive'
         },
         {
             id: 11,
-            image: 'assets/image/India.png',
+            image: '/assets/image/India.png',
             heading: 'INR',
             peregraph: 'India',
             activeCurrency: 'unactive'
         },
         {
             id: 12,
-            image: 'assets/image/Japan.png',
+            image: '/assets/image/Japan.png',
             heading: 'CHF',
             peregraph: 'Japan',
             activeCurrency: 'unactive'
         },
         {
             id: 13,
-            image: 'assets/image/Kuwait.png',
+            image: '/assets/image/Kuwait.png',
             heading: 'CNY',
             peregraph: 'Kuwait',
             activeCurrency: 'unactive'
         },
         {
             id: 14,
-            image: 'assets/image/SriLanka.png',
+            image: '/assets/image/SriLanka.png',
             heading: 'DEM',
             peregraph: 'Sri Lanka',
             activeCurrency: 'unactive'
         },
         {
             id: 15,
-            image: 'assets/image/Maldives.png',
+            image: '/assets/image/Maldives.png',
             heading: 'EURO',
             peregraph: 'Maldives',
             activeCurrency: 'unactive'
         },
         {
             id: 16,
-            image: 'assets/image/Norway.png',
+            image: '/assets/image/Norway.png',
             heading: 'EURO',
             peregraph: 'Norway',
             activeCurrency: 'unactive'

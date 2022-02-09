@@ -8,7 +8,7 @@ import { InputGroup, FormControl, Form } from 'react-bootstrap'
 const addCurrency = [
     {
         id: 1,
-        image: 'assets/image/Bitcoin.svg',
+        image: '/assets/image/Bitcoin.svg',
         heading: 'BTC',
         peregraph: 'Bitcoin',
         checkboxId: 'checkbox1',
@@ -16,7 +16,7 @@ const addCurrency = [
     },
     {
         id: 2,
-        image: 'assets/image/ETH.svg',
+        image: '/assets/image/ETH.svg',
         heading: 'ETH',
         peregraph: 'Ethereum',
         checkboxId: 'checkbox2',
@@ -24,28 +24,28 @@ const addCurrency = [
     },
     {
         id: 3,
-        image: 'assets/image/Litecoin.svg',
+        image: '/assets/image/Litecoin.svg',
         heading: 'LTC',
         peregraph: 'Litecoin',
         checkboxId: 'checkbox3'
     },
     {
         id: 4,
-        image: 'assets/image/algo.svg',
+        image: '/assets/image/algo.svg',
         heading: 'ALGO',
         peregraph: 'Algorand',
         checkboxId: 'checkbox4'
     },
     {
         id: 5,
-        image: 'assets/image/bitcoinlight.svg',
+        image: '/assets/image/bitcoinlight.svg',
         heading: 'BCH',
         peregraph: 'Bitcoin Cash',
         checkboxId: 'checkbox5'
     },
     {
         id: 6,
-        image: 'assets/image/dash.svg',
+        image: '/assets/image/dash.svg',
         heading: 'DASH',
         peregraph: 'Dash Parr',
         checkboxId: 'checkbox6',
@@ -53,28 +53,28 @@ const addCurrency = [
     },
     {
         id: 7,
-        image: 'assets/image/lumen.svg',
+        image: '/assets/image/lumen.svg',
         heading: 'LUMEN',
         peregraph: 'Lumen Pierce',
         checkboxId: 'checkbox7'
     },
     {
         id: 8,
-        image: 'assets/image/tezos.svg',
+        image: '/assets/image/tezos.svg',
         heading: 'TEZOS',
         peregraph: 'Tezos',
         checkboxId: 'checkbox8'
     },
     {
         id: 9,
-        image: 'assets/image/zcash.svg',
+        image: '/assets/image/zcash.svg',
         heading: 'ZCASH',
         peregraph: 'Lumen',
         checkboxId: 'checkbox9'
     },
     {
         id: 10,
-        image: 'assets/image/eos.svg',
+        image: '/assets/image/eos.svg',
         heading: 'EOS',
         peregraph: 'Eos',
         checkboxId: 'checkbox10'

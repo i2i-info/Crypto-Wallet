@@ -5,7 +5,7 @@ import { Table } from 'react-bootstrap';
 const transactionList = [
     {
         id: 1,
-        transactionType: 'assets/image/tableBitcoin.png',
+        transactionType: '/assets/image/tableBitcoin.png',
         transactionName: 'Bitcoin',
         transactionId: '5bfa9573d7bc89742a4b8ec5f1da0ed09475bfa9573d7bc8',
         transactionValue: '+0.025',
@@ -16,7 +16,7 @@ const transactionList = [
     },
     {
         id: 2,
-        transactionType: 'assets/image/tableDash.svg',
+        transactionType: '/assets/image/tableDash.svg',
         transactionName: 'Dash Parr',
         transactionId: '8ba9573d7bc89742a4b8ec5f1da0ed09475bfa9573d7bc8',
         transactionValue: '-5.23%',
@@ -27,7 +27,7 @@ const transactionList = [
     },
     {
         id: 3,
-        transactionType: 'assets/image/tableETH.png',
+        transactionType: '/assets/image/tableETH.png',
         transactionName: 'Ethereum',
         transactionId: '4befa9573d7bc89742a4b8ec5f1da0ed09475bfa9573d7bc',
         transactionValue: '-5.53%',
@@ -38,7 +38,7 @@ const transactionList = [
     },
     {
         id: 4,
-        transactionType: 'assets/image/tableBitcoin.png',
+        transactionType: '/assets/image/tableBitcoin.png',
         transactionName: 'Bitcoin',
         transactionId: '6bf9573d7bc89742a4b8ec5f1da0ed09475bfa9573d7bc8',
         transactionValue: '-5.43%',
@@ -49,7 +49,7 @@ const transactionList = [
     },
     {
         id: 5,
-        transactionType: 'assets/image/tableDash.svg',
+        transactionType: '/assets/image/tableDash.svg',
         transactionName: 'Dash Parr',
         transactionId: '7bfa9573d7bc89742a4b8ec5f1da0ed09475bfa9573d7bc8',
         transactionValue: '+0.025',
@@ -60,7 +60,7 @@ const transactionList = [
     },
     {
         id: 6,
-        transactionType: 'assets/image/tableETH.png',
+        transactionType: '/assets/image/tableETH.png',
         transactionName: 'Ethereum',
         transactionId: '0fa9573d7bc89742a4b8ec5f1da0ed09475bfa9573d7bc8',
         transactionValue: '+0.025',
@@ -71,7 +71,7 @@ const transactionList = [
     },
     {
         id: 7,
-        transactionType: 'assets/image/tableBitcoin.png',
+        transactionType: '/assets/image/tableBitcoin.png',
         transactionName: 'Bitcoin',
         transactionId: '5bfa9573d7bc89742a4b8ec5f1da0ed09475bfa9573d7bc8',
         transactionValue: '+0.025',
@@ -82,7 +82,7 @@ const transactionList = [
     },
     {
         id: 8,
-        transactionType: 'assets/image/tableDash.svg',
+        transactionType: '/assets/image/tableDash.svg',
         transactionName: 'Dash Parr',
         transactionId: '8ba9573d7bc89742a4b8ec5f1da0ed09475bfa9573d7bc8',
         transactionValue: '-5.23%',
@@ -93,7 +93,7 @@ const transactionList = [
     },
     {
         id: 9,
-        transactionType: 'assets/image/tableETH.png',
+        transactionType: '/assets/image/tableETH.png',
         transactionName: 'Ethereum',
         transactionId: '0fa9573d7bc89742a4b8ec5f1da0ed09475bfa9573d7bc8',
         transactionValue: '+0.025',
@@ -104,7 +104,7 @@ const transactionList = [
     },
     {
         id: 10,
-        transactionType: 'assets/image/tableBitcoin.png',
+        transactionType: '/assets/image/tableBitcoin.png',
         transactionName: 'Bitcoin',
         transactionId: '5bfa9573d7bc89742a4b8ec5f1da0ed09475bfa9573d7bc8',
         transactionValue: '+0.025',
@@ -115,7 +115,7 @@ const transactionList = [
     },
     {
         id: 11,
-        transactionType: 'assets/image/tableDash.svg',
+        transactionType: '/assets/image/tableDash.svg',
         transactionName: 'Dash Parr',
         transactionId: '8ba9573d7bc89742a4b8ec5f1da0ed09475bfa9573d7bc8',
         transactionValue: '-5.23%',
@@ -126,7 +126,7 @@ const transactionList = [
     },
     {
         id: 12,
-        transactionType: 'assets/image/tableETH.png',
+        transactionType: '/assets/image/tableETH.png',
         transactionName: 'Ethereum',
         transactionId: '0fa9573d7bc89742a4b8ec5f1da0ed09475bfa9573d7bc8',
         transactionValue: '+0.025',
@@ -137,7 +137,7 @@ const transactionList = [
     },
     {
         id: 13,
-        transactionType: 'assets/image/tableBitcoin.png',
+        transactionType: '/assets/image/tableBitcoin.png',
         transactionName: 'Bitcoin',
         transactionId: '5bfa9573d7bc89742a4b8ec5f1da0ed09475bfa9573d7bc8',
         transactionValue: '+0.025',
@@ -148,7 +148,7 @@ const transactionList = [
     },
     {
         id: 14,
-        transactionType: 'assets/image/tableDash.svg',
+        transactionType: '/assets/image/tableDash.svg',
         transactionName: 'Dash Parr',
         transactionId: '8ba9573d7bc89742a4b8ec5f1da0ed09475bfa9573d7bc8',
         transactionValue: '-5.23%',
@@ -159,7 +159,7 @@ const transactionList = [
     },
     {
         id: 15,
-        transactionType: 'assets/image/tableETH.png',
+        transactionType: '/assets/image/tableETH.png',
         transactionName: 'Ethereum',
         transactionId: '0fa9573d7bc89742a4b8ec5f1da0ed09475bfa9573d7bc8',
         transactionValue: '+0.025',
@@ -170,7 +170,7 @@ const transactionList = [
     },
     {
         id: 16,
-        transactionType: 'assets/image/tableBitcoin.png',
+        transactionType: '/assets/image/tableBitcoin.png',
         transactionName: 'Bitcoin',
         transactionId: '5bfa9573d7bc89742a4b8ec5f1da0ed09475bfa9573d7bc8',
         transactionValue: '+0.025',
@@ -181,7 +181,7 @@ const transactionList = [
     },
     {
         id: 17,
-        transactionType: 'assets/image/tableDash.svg',
+        transactionType: '/assets/image/tableDash.svg',
         transactionName: 'Dash Parr',
         transactionId: '8ba9573d7bc89742a4b8ec5f1da0ed09475bfa9573d7bc8',
         transactionValue: '-5.23%',
@@ -192,7 +192,7 @@ const transactionList = [
     },
     {
         id: 18,
-        transactionType: 'assets/image/tableETH.png',
+        transactionType: '/assets/image/tableETH.png',
         transactionName: 'Ethereum',
         transactionId: '0fa9573d7bc89742a4b8ec5f1da0ed09475bfa9573d7bc8',
         transactionValue: '+0.025',

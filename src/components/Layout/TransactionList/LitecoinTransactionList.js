@@ -7,7 +7,7 @@ const LTCTransactionListComponent = () => {
     const transactionList = [
         {
             id: 1,
-            transactionType: 'assets/image/tableDash.svg',
+            transactionType: '/assets/image/tableDash.svg',
             transactionName: 'Dash Parr',
             transactionId: '5bfa9573d7bc89742a4b8ec5f1da0ed09475bfa9573d7bc8',
             transactionValue: '+0.025',
@@ -18,7 +18,7 @@ const LTCTransactionListComponent = () => {
         },
         {
             id: 2,
-            transactionType: 'assets/image/tableDash.svg',
+            transactionType: '/assets/image/tableDash.svg',
             transactionName: 'Dash Parr',
             transactionId: '8ba9573d7bc89742a4b8ec5f1da0ed09475bfa9573d7bc8',
             transactionValue: '-5.23%',
@@ -29,7 +29,7 @@ const LTCTransactionListComponent = () => {
         },
         {
             id: 3,
-            transactionType: 'assets/image/tableDash.svg',
+            transactionType: '/assets/image/tableDash.svg',
             transactionName: 'Dash Parr',
             transactionId: '4befa9573d7bc89742a4b8ec5f1da0ed09475bfa9573d7bc',
             transactionValue: '-5.23%',
@@ -40,7 +40,7 @@ const LTCTransactionListComponent = () => {
         },
         {
             id: 4,
-            transactionType: 'assets/image/tableDash.svg',
+            transactionType: '/assets/image/tableDash.svg',
             transactionName: 'Dash Parr',
             transactionId: '6bf9573d7bc89742a4b8ec5f1da0ed09475bfa9573d7bc8',
             transactionValue: '-5.23%',
@@ -51,7 +51,7 @@ const LTCTransactionListComponent = () => {
         },
         {
             id: 5,
-            transactionType: 'assets/image/tableDash.svg',
+            transactionType: '/assets/image/tableDash.svg',
             transactionName: 'Dash Parr',
             transactionId: '5bfa9573d7bc89742a4b8ec5f1da0ed09475bfa9573d7bc8',
             transactionValue: '-5.23%',
@@ -62,7 +62,7 @@ const LTCTransactionListComponent = () => {
         },
         {
             id: 6,
-            transactionType: 'assets/image/tableDash.svg',
+            transactionType: '/assets/image/tableDash.svg',
             transactionName: 'Dash Parr',
             transactionId: '5bfa9573d7bc89742a4b8ec5f1da0ed09475bfa9573d7bc8',
             transactionValue: '-5.23%',
@@ -73,7 +73,7 @@ const LTCTransactionListComponent = () => {
         },
         {
             id: 7,
-            transactionType: 'assets/image/tableDash.svg',
+            transactionType: '/assets/image/tableDash.svg',
             transactionName: 'Dash Parr',
             transactionId: '5bfa9573d7bc89742a4b8ec5f1da0ed09475bfa9573d7bc8',
             transactionValue: '-5.23%',
@@ -84,7 +84,7 @@ const LTCTransactionListComponent = () => {
         },
         {
             id: 8,
-            transactionType: 'assets/image/tableDash.svg',
+            transactionType: '/assets/image/tableDash.svg',
             transactionName: 'Dash Parr',
             transactionId: '5bfa9573d7bc89742a4b8ec5f1da0ed09475bfa9573d7bc8',
             transactionValue: '-5.23%',

@@ -53,7 +53,7 @@ const PortfolioModule = () => {
                         className="zl_add_currency_inner_content zl_add_bitcoin_currency"
                       >
                         <div className="zl_add_currency_icon_chart">
-                          {/* <img src="assets/image/Bitcoin.svg" alt="currency-icon" /> */}
+                          {/* <img src="/assets/image/Bitcoin.svg" alt="currency-icon" /> */}
                           <div className="zl_currency_icon">
                             <svg
                               viewBox="0 0 34 30"
